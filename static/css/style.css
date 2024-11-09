@@ -12,5 +12,5 @@ figure {margin: auto}
 img {display: block; max-width: 100%; height: auto; margin: auto}
 blockquote {border-left:dashed 1px var(--fontcolor);padding-left:1em;margin-left:0em;}
 blockquote > blockquote > p {color:#6600ff;}
-code {padding: 2px .5em !important;}
+code {padding: 2px .5em !important;background:#272822 !important;}
 strong {color: #4D4DFF !important;border-bottom: dashed 1px #4D4DFF;padding-bottom: 2px;}
